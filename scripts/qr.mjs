@@ -38,8 +38,8 @@ export function detectSiteUrl(port = Number(process.env.PORT) || DEFAULT_PORT) {
 export async function renderQrSvg(url) {
   return QRCode.toString(url, {
     type: 'svg',
-    margin: 1,
-    width: 200,
+    margin: 4,
+    width: 240,
     errorCorrectionLevel: 'M',
     color: { dark: '#1c1a17', light: '#ffffff' },
   });

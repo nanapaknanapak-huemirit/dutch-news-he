@@ -94,9 +94,18 @@ if (fs.existsSync(podcastFile)) {
   const podcast = fs.readFileSync(podcastFile, 'utf8');
   if (!podcast.includes('<rss') || !podcast.includes('</rss>')) failures.push('podcast.xml is not a complete RSS feed');
   const enclosures = [...podcast.matchAll(/<enclosure url="([^"]+)"/g)].map((match) => match[1]);
+  let basePath = '';
+  try {
+    basePath = new URL(status?.siteUrl || '').pathname.replace(/^\/|\/$/g, '');
+  } catch {
+    basePath = '';
+  }
   for (const url of enclosures) {
     try {
-      const relative = new URL(url).pathname.replace(/^\//, '');
+      let relative = new URL(url).pathname.replace(/^\//, '');
+      if (basePath && (relative === basePath || relative.startsWith(`${basePath}/`))) {
+        relative = relative.slice(basePath.length).replace(/^\//, '');
+      }
       if (!fs.existsSync(path.join(siteDir, relative))) failures.push(`podcast enclosure is missing: ${relative}`);
     } catch {
       failures.push(`podcast enclosure is not a valid URL: ${url}`);

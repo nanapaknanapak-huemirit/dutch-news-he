@@ -181,7 +181,7 @@ function renderQrPanel({ qrSvg, siteUrl, prefix = '' }) {
     <div class="qr-copy">
       <p class="eyebrow">בטלפון</p>
       <h2>סרקו כדי לפתוח</h2>
-      <p>סרקו את הקוד עם המצלמה. הטלפון והמחשב צריכים להיות מחוברים לאותה רשת Wi-Fi.</p>
+      <p>סרקו את הקוד עם המצלמה כדי לפתוח את האתר בטלפון.</p>
       <code dir="ltr">${escapeHtml(siteUrl)}</code>
       <p class="qr-links"><a href="${prefix}podcast.xml">פודקאסט</a> · <a href="${prefix}updates.html">היסטוריית עדכונים</a></p>
     </div>

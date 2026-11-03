@@ -1,0 +1,13 @@
+[Unit]
+Description=Deploy the Dutch news Hebrew site to GitHub Pages
+After=dutch-news-he.service
+ConditionPathExists=%h/dutch-news-he/site/index.html
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/dutch-news-he
+Environment=HOME=%h
+Environment=PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/usr/bin/toolbox run -c fedora-toolbox-44 %h/dutch-news-he/scripts/deploy-pages.sh
+TimeoutStartSec=10min
+SyslogIdentifier=dutch-news-he-deploy

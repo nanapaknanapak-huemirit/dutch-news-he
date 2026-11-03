@@ -2,6 +2,7 @@
 Description=Daily Dutch news edition in Hebrew
 After=network-online.target
 Wants=network-online.target
+OnSuccess=dutch-news-he-deploy.service
 
 [Service]
 Type=oneshot

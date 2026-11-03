@@ -11,7 +11,7 @@ node scripts/build.mjs
 
 UNIT_DIR="${XDG_CONFIG_HOME:-$HOME/.config}/systemd/user"
 mkdir -p "$UNIT_DIR"
-cp systemd/dutch-news-he.service systemd/dutch-news-he.timer systemd/dutch-news-he-serve.service "$UNIT_DIR/"
+cp systemd/dutch-news-he.service systemd/dutch-news-he.timer systemd/dutch-news-he-serve.service systemd/dutch-news-he-deploy.service "$UNIT_DIR/"
 
 systemctl --user daemon-reload
 systemctl --user enable --now dutch-news-he.timer
