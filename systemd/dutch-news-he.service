@@ -1,0 +1,15 @@
+[Unit]
+Description=Daily Dutch news edition in Hebrew
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/dutch-news-he
+Environment=PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/usr/bin/env node %h/dutch-news-he/scripts/build.mjs
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/%U/bus
+EnvironmentFile=-%h/.config/dutch-news-he/notify.env
+Nice=10
+TimeoutStartSec=30min
+SyslogIdentifier=dutch-news-he

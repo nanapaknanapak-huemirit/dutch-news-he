@@ -1,0 +1,11 @@
+[Unit]
+Description=Generate the Dutch news Hebrew edition every morning
+
+[Timer]
+OnCalendar=*-*-* 07:00:00 Europe/Amsterdam
+Persistent=true
+RandomizedDelaySec=5m
+AccuracySec=1m
+
+[Install]
+WantedBy=timers.target

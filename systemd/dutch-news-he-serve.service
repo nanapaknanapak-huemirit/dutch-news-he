@@ -1,0 +1,18 @@
+[Unit]
+Description=Serve the Dutch news Hebrew site on the local network
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/dutch-news-he
+Environment=PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/usr/bin/env node %h/dutch-news-he/scripts/serve.mjs
+Environment=PORT=8787
+EnvironmentFile=-%h/.config/dutch-news-he/notify.env
+Restart=always
+RestartSec=3
+SyslogIdentifier=dutch-news-he-serve
+
+[Install]
+WantedBy=default.target

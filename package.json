@@ -1,0 +1,21 @@
+{
+  "name": "dutch-news-he",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily Dutch news translated to Hebrew",
+  "scripts": {
+    "update": "node scripts/build.mjs",
+    "build": "node scripts/build.mjs",
+    "dry-run": "node scripts/build.mjs --dry-run",
+    "check": "node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs",
+    "telegram": "node scripts/setup-telegram.mjs",
+    "build:fast": "node scripts/build.mjs --no-audio"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "fast-xml-parser": "^5.3.1",
+    "qrcode": "^1.5.4"
+  }
+}

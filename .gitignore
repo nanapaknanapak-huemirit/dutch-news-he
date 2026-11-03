@@ -1,0 +1,12 @@
+node_modules/
+cache/
+data/
+site/
+site.tmp/
+site.old/
+logs/
+*.log
+.env
+.env.*
+notify.env
+.DS_Store
