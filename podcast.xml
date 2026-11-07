@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>חדשות הולנד — פודקאסט יומי</title>
+  <link>https://nanapaknanapak-huemirit.github.io/dutch-news-he/</link>
+  <atom:link href="https://nanapaknanapak-huemirit.github.io/dutch-news-he/podcast.xml" rel="self" type="application/rss+xml"/>
+  <description>מהדורת חדשות יומית בעברית מהולנד: NOS, NPO ו-AT5.</description>
+  <language>he</language>
+  <lastBuildDate>Sat, 07 Nov 2026 13:31:24 GMT</lastBuildDate>
+  <itunes:author>חדשות הולנד</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <item>
+    <title>מהדורת 7 בנובמבר 2026</title>
+    <link>https://nanapaknanapak-huemirit.github.io/dutch-news-he/updates.html</link>
+    <guid isPermaLink="false">dutch-news-he-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 GMT</pubDate>
+    <description>הכותרות הבולטות: מהדורת NOS Journaal · 13:00 · כהן ואן ארטסן מצטרפים לקו האדום: &quot;צריך לקרוא לזה רצח עם&quot; · מנהיג ה-CDA בונטנבאל: רגע מכריע לקואליציית המיעוטים · נהג תוקף נהג משאית לאחר ניסיון עקיפה כושל בברדה · בחירות בניו זילנד צוואר וצוואר, תפקיד מפתח אפשרי עבור עולה חדש</description>
+    <itunes:summary>הכותרות הבולטות: מהדורת NOS Journaal · 13:00 · כהן ואן ארטסן מצטרפים לקו האדום: &quot;צריך לקרוא לזה רצח עם&quot; · מנהיג ה-CDA בונטנבאל: רגע מכריע לקואליציית המיעוטים · נהג תוקף נהג משאית לאחר ניסיון עקיפה כושל בברדה · בחירות בניו זילנד צוואר וצוואר, תפקיד מפתח אפשרי עבור עולה חדש</itunes:summary>
+    <itunes:duration>0:03:31</itunes:duration>
+    <enclosure url="https://nanapaknanapak-huemirit.github.io/dutch-news-he/audio/edition-2026-11-07.mp3" length="1685805" type="audio/mpeg"/>
+  </item>
+  <item>
+    <title>מהדורת 4 בנובמבר 2026</title>
+    <link>https://nanapaknanapak-huemirit.github.io/dutch-news-he/updates.html</link>
+    <guid isPermaLink="false">dutch-news-he-2026-11-04</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 GMT</pubDate>
+    <description>הכותרות הבולטות: מהדורת NOS Journaal · 23:25 · הנוכל הדיגיטלי טוני חייב לעזור לחקלאים להגיד לא לפושעים אמיתיים · היסטוריה נעשית בקדנציות הביניים האמריקאיות, אלו הראשונות · Ahold Delhaize רואה נזק של עשרות מיליונים עקב מתקפת סייבר · עשרות לבבות זהב לילדי מלחמה שנגנבו משביל באוטרכט</description>
+    <itunes:summary>הכותרות הבולטות: מהדורת NOS Journaal · 23:25 · הנוכל הדיגיטלי טוני חייב לעזור לחקלאים להגיד לא לפושעים אמיתיים · היסטוריה נעשית בקדנציות הביניים האמריקאיות, אלו הראשונות · Ahold Delhaize רואה נזק של עשרות מיליונים עקב מתקפת סייבר · עשרות לבבות זהב לילדי מלחמה שנגנבו משביל באוטרכט</itunes:summary>
+    <itunes:duration>0:03:29</itunes:duration>
+    <enclosure url="https://nanapaknanapak-huemirit.github.io/dutch-news-he/audio/edition-2026-11-04.mp3" length="1672749" type="audio/mpeg"/>
+  </item>
+  <item>
+    <title>מהדורת 3 בנובמבר 2026</title>
+    <link>https://nanapaknanapak-huemirit.github.io/dutch-news-he/updates.html</link>
+    <guid isPermaLink="false">dutch-news-he-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 GMT</pubDate>
+    <description>הכותרות הבולטות: מהדורת NOS Journaal · 11:00 · הפיקוח מזהיר: אין להשתמש בקונדומים שנזכרו על ידי צרפת · תוכנית מס 2027: כוח הקנייה גדל מעט, העלאת המע&quot;מ לגידול פרחים נדחתה · פיליפס מסדרת תיק דום נשימה עם השופט האמריקאי, מנכ&quot;ל נלהב מבינה מלאכותית · מטוס מלונדון נוחת בפולין עקב חומר נפץ אפשרי על הסיפון</description>
+    <itunes:summary>הכותרות הבולטות: מהדורת NOS Journaal · 11:00 · הפיקוח מזהיר: אין להשתמש בקונדומים שנזכרו על ידי צרפת · תוכנית מס 2027: כוח הקנייה גדל מעט, העלאת המע&quot;מ לגידול פרחים נדחתה · פיליפס מסדרת תיק דום נשימה עם השופט האמריקאי, מנכ&quot;ל נלהב מבינה מלאכותית · מטוס מלונדון נוחת בפולין עקב חומר נפץ אפשרי על הסיפון</itunes:summary>
+    <itunes:duration>0:04:16</itunes:duration>
+    <enclosure url="https://nanapaknanapak-huemirit.github.io/dutch-news-he/audio/edition-2026-11-03.mp3" length="2047725" type="audio/mpeg"/>
+  </item>
+</channel>
+</rss>
