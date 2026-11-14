@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>פרס בוקר מוענק למ&#39; ג&#39;ון הריסון, הזוכה המבוגר ביותר אי פעם — חדשות הולנד</title>
+<link rel="stylesheet" href="../style.css">
+<link rel="alternate" type="application/atom+xml" title="חדשות הולנד" href="../feed.xml">
+<link rel="alternate" type="application/rss+xml" title="פודקאסט חדשות הולנד" href="../podcast.xml">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="../index.html">
+      <span class="brand-mark">NL</span>
+      <span class="brand-text"><strong>חדשות הולנד</strong><small>בעברית, כל בוקר</small></span>
+    </a>
+    <div class="header-date">יום שבת, 14 בנובמבר 2026</div>
+  </div>
+</header>
+<main class="wrap">
+
+  <nav class="article-nav">
+    <a href="../index.html">← המהדורה היומית</a>
+    <a href="../archive/2026-11-10.html">המהדורה המלאה</a>
+  </nav>
+  <article class="article-page" data-source="nos">
+    <header class="article-head">
+      <div class="card-meta">
+        <span class="src src-nos">NOS</span>
+        <time datetime="2026-11-10T02:12:12.000Z">10 בנוב׳, 03:12</time>
+      </div>
+      <h1>פרס בוקר מוענק למ&#39; ג&#39;ון הריסון, הזוכה המבוגר ביותר אי פעם</h1>
+      <p class="original article-original" lang="nl" dir="ltr">Booker Prize gaat naar M. John Harrison, oudste winnaar ooit</p>
+      <div class="article-actions">
+        
+        <a class="source-link" href="https://nos.nl/l/2638805" target="_blank" rel="noopener noreferrer">למקור ההולנדי ↗</a>
+      </div>
+    </header>
+    <div class="article-body">
+      <p>פרס בוקר השנה מגיע לסופר הבריטי מ&#39; ג&#39;ון הריסון. הוא זוכה בפרס הספרות היוקרתי על ספרו &quot;סוף הכל&quot;, סיפור סאטירי על בריטניה פוסט-אפוקליפטית. זו הפעם הראשונה שפרס הספרות בשווי 50,000 פאונד הוענק לסיפור מדע בדיוני. הריסון עצמו מדגיש שהוא לא רוצה להיות מוגבל על ידי התווית הזו. &quot;אני חושב שהספר הזה, ועכשיו הפרס הזה, מראה שאפשר מאוד לכתוב ספר שמשלב לא רק שניים, אלא שלושה או ארבעה ז&#39;אנרים&quot;, אמר במסיבת עיתונאים לאחר חלוקת הפרס. סוף הכל מתרחש בעתיד הקרוב, לאחר שאסון שיבש את החברה. הסיפור סובב סביב חופן על חוף תעלת למאנש שמוצא חפץ משנה צורה. הריסון זוכה לשבחים על הכתיבה שלו, אבל גם על ההומור שלו. לדברי יו&quot;ר חבר המושבעים מרי בירד, המחברת &quot;צופה בפוליטיקה של היום מבעד לעדשת העתיד&quot;. &quot;זה ספר שהופך אותך.</p>
+<p>הוא מעניק לך חיוך עקום, אבל למרות הנושא, הוא עדיין משאיר אותך עם מגע של אופטימיות&quot;, אמר חבר המושבעים. בגיל 81, המחבר הוא הזוכה המבוגר ביותר בפרס בוקר. מאז 2019, השיא הזה מוחזק על ידי מרגרט אטווד בת ה-79.</p>
+    </div>
+    <p class="article-note">תרגום עברי של הכתבה מ־NOS. <a href="https://nos.nl/l/2638805" target="_blank" rel="noopener noreferrer">הכתבה המקורית</a></p>
+  </article>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>נבנה אוטומטית מהמקורות: NOS · NPO · AT5</p>
+    <nav>
+      <a href="../updates.html">עדכונים</a>
+      <a href="../archive/index.html">ארכיון</a>
+      <a href="../podcast.xml">פודקאסט</a>
+      <a href="../feed.xml">RSS</a>
+      
+    </nav>
+  </div>
+</footer>
+<audio id="item-player" preload="none"></audio>
+<script>
+(() => {
+  const filterButtons = document.querySelectorAll('[data-filter]');
+  const filterCards = document.querySelectorAll('[data-source]');
+  filterButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      const filter = button.dataset.filter;
+      filterButtons.forEach((other) => other.classList.toggle('active', other === button));
+      filterCards.forEach((card) => { card.hidden = filter !== 'all' && card.dataset.source !== filter; });
+    });
+  });
+
+  const readToggle = document.querySelector('[data-read-toggle]');
+  const readingPanel = document.getElementById('bulletin-reading');
+  if (readToggle && readingPanel) {
+    readToggle.addEventListener('click', () => {
+      const expanded = readToggle.getAttribute('aria-expanded') === 'true';
+      readToggle.setAttribute('aria-expanded', String(!expanded));
+      readingPanel.hidden = expanded;
+      const label = readToggle.querySelector('[data-read-label]');
+      if (label) label.textContent = expanded ? 'קריאה' : 'סגירה';
+    });
+  }
+
+  const itemPlayer = document.getElementById('item-player');
+  const bulletin = document.getElementById('bulletin-player');
+  const allAudioButtons = [...document.querySelectorAll('[data-audio]')];
+  const listenButtons = allAudioButtons.filter((button) => !button.hasAttribute('data-standalone'));
+  let current = null;
+
+  const setState = (button, playing) => {
+    button.classList.toggle('playing', playing);
+    button.setAttribute('aria-pressed', String(playing));
+    const icon = button.querySelector('[data-icon]');
+    const label = button.querySelector('[data-label]');
+    const idleLabel = button.dataset.labelIdle || 'האזן';
+    const playingLabel = button.dataset.labelPlaying || 'עצור';
+    if (icon) icon.textContent = playing ? '❚❚' : '▶';
+    if (label) label.textContent = playing ? playingLabel : idleLabel;
+  };
+
+  const playButton = (button) => {
+    if (!itemPlayer) return;
+    if (current === button && !itemPlayer.paused) {
+      itemPlayer.pause();
+      return;
+    }
+    if (current && current !== button) setState(current, false);
+    if (bulletin) bulletin.pause();
+    current = button;
+    itemPlayer.src = button.dataset.audio;
+    itemPlayer.play().catch(() => setState(button, false));
+  };
+
+  allAudioButtons.forEach((button) => button.addEventListener('click', () => playButton(button)));
+
+  itemPlayer?.addEventListener('play', () => { if (current) setState(current, true); });
+  itemPlayer?.addEventListener('pause', () => { if (current) setState(current, false); });
+  itemPlayer?.addEventListener('ended', () => {
+    const finished = current;
+    if (finished) setState(finished, false);
+    if (!finished || finished.hasAttribute('data-standalone')) {
+      current = null;
+      return;
+    }
+    const visible = listenButtons.filter((button) => !button.closest('[hidden]'));
+    const index = visible.indexOf(finished);
+    const next = visible[index + 1];
+    if (next) playButton(next);
+  });
+
+  bulletin?.addEventListener('play', () => {
+    itemPlayer?.pause();
+    if (current) setState(current, false);
+    current = null;
+  });
+
+  document.querySelector('[data-play-all]')?.addEventListener('click', () => {
+    const visible = listenButtons.filter((button) => !button.closest('[hidden]'));
+    if (visible.length) playButton(visible[0]);
+  });
+})();
+</script>
+</body>
+</html>
