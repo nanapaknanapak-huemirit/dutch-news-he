@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="he">
+  <id>urn:dutch-news-he:feed</id>
+  <title>חדשות הולנד בעברית</title>
+  <subtitle>סיכום יומי של חדשות מהולנד: NOS, NPO ו-AT5</subtitle>
+  <updated>2026-11-26T09:45:19.686Z</updated>
+  <link rel="self" href="feed.xml"/>
+  <link rel="alternate" href="index.html"/>
+  <author><name>חדשות הולנד</name></author>
+  <generator uri="https://opencode.ai">dutch-news-he</generator>
+  <entry>
+    <title>מהדורת NOS Journaal · 10:00</title>
+    <id>https://npo.nl/start/afspelen/nos-journaal_107788</id>
+    <link rel="alternate" href="https://npo.nl/start/afspelen/nos-journaal_107788"/>
+    <published>2026-11-26T09:00:00.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NPO"/>
+    <summary type="html">&lt;p&gt;קר אבל שטוף שמש. פריצת דרך במקרים קרים באמצעות טכנולוגיה חדשה. חוסר שביעות רצון בקרב ה-VVD על יסילגוז. והערב המרתון הראשון על קרח טבעי. בוקר טוב. המשטרה טוענת שהם פגעו בזהב עם צורה חדשה של בדיקת DNA. כתוצאה מכך, כבר חלה פריצת דרך בחמישה תיקי עבירות מין שטרם נפתרו השנה. טכניקה חדשה זו בוחנת את כרומוזום Y. כעת אנו יכולים להסתכל על פיסת DNA... שיש רק לגברים ואשר עוברת בירושה מאב לבן... ואינה משתנה. אז הדנ&amp;quot;א זהה אצל אבות, אצל בנים... אצל דודים, אצל בני דודים, אצל בני דודים שניים. ואם האדם שאנחנו מחפשים לא נמצא במאגר הדנ&amp;quot;א... אבל בן דודו השני הוא... נוכל למצוא את העבריין דרך בן הדוד השני הזה. זה מבטיח שנוכל להעביר מידע חקירתי מאוד שימושי... למשטרה על משפחתו של העבריין... למשל שם משפחתו. כתוצאה מכך נפתרו תיקי עבירות מין חמורות משנות ה-90. צפוי שניתן לאתר מבצעים נוספים של מקרים ישנים. ואלה חדשות טובות לקורבנות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://npo.nl/start/afspelen/nos-journaal_107788&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אדם בארה&quot;ב זוכה במיליון עם כרטיס גירוד, נעצר כמה ימים לאחר מכן על ידי ICE</title>
+    <id>https://nos.nl/l/2641071</id>
+    <link rel="alternate" href="https://nos.nl/l/2641071"/>
+    <published>2026-11-26T08:52:21.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אריאל ולסקז-מורלס כנראה יצא ביום רביעי שעבר מסופרמרקט בעיר האמריקנית בוסטון ברוח טובה. זה עתה קנה כרטיס גירוד מנצח שעשה אותו מיידית לעשיר במיליון דולר. מכיוון שהוא בחר לקבל את זה במזומן, נותר לו סכום נטו של 650,000 דולר.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641071&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אמריקן חי עם כליית חזיר כבר שנה: &quot;חשבתי שזה ממש מגניב&quot;</title>
+    <id>https://nos.nl/l/2641068</id>
+    <link rel="alternate" href="https://nos.nl/l/2641068"/>
+    <published>2026-11-26T08:37:04.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אישה אמריקאית בת 58 חיה עם כליית חזיר מושתלת כבר שנה ללא בעיות גדולות. הרופאים קוראים לזה אבן דרך להשתלות קסנו, שימוש באיברים ממינים אחרים. מעולם לא שרד חולה כל כך הרבה זמן עם איבר לא אנושי. מולי פאלקו מניו המפשייר סבלה ממחלת כליות מאז הלידה. מאוחר יותר בחיים היא יכלה לעשות מעט מבלי להיות מותשת.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641068&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מחקר: 1 מכל 5 תושבי אמסטרדם הם קורבנות של התנהגות מינית בלתי הולמת</title>
+    <id>https://www.at5.nl/artikelen/241260/onderzoek-1-op-5-amsterdammers-slachtoffer-seksueel-grensoverschrijdend-gedrag</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241260/onderzoek-1-op-5-amsterdammers-slachtoffer-seksueel-grensoverschrijdend-gedrag"/>
+    <published>2026-11-26T08:20:02.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;בשנה האחרונה, 19 אחוז מתושבי אמסטרדם בני 16 ומעלה היו קורבנות של התנהגות מינית בלתי הולמת ואחד מכל עשרה לאלימות במשפחה. נשים וצעירים במיוחד הושפעו מכך. כך עולה מנתוני הלשכה המרכזית לסטטיסטיקה (הלמ&amp;quot;ס), שניתחו על ידי אגף המחקר והסטטיסטיקה בעירייה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241260/onderzoek-1-op-5-amsterdammers-slachtoffer-seksueel-grensoverschrijdend-gedrag&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ANWB רואה פער בין נהגים חשמליים לנהגי דלק מאובנים</title>
+    <id>https://nos.nl/l/2641064</id>
+    <link rel="alternate" href="https://nos.nl/l/2641064"/>
+    <published>2026-11-26T08:08:51.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;בעשר שנים, מספר המכוניות החשמליות בהולנד גדל מכ-20,000 ל-750,000. נהגים שיש להם אחד הם בדרך כלל מאוד חיוביים; אנשים שעדיין נוהגים על דלק מאובנים החלו למעשה לראות נהיגה חשמלית בצורה שלילית יותר בשנים האחרונות. תמונה זו מופיעה במוניטור העשירי לנהיגה חשמלית של ANWB. בקבוצת האינטרסים מדברים על &amp;quot;פער ניסיון&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641064&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>&quot;התפקיד העיקרי של סוחר סירות גרמני בהברחת בני אדם מעבר לתעלה&quot;</title>
+    <id>https://nos.nl/l/2641055</id>
+    <link rel="alternate" href="https://nos.nl/l/2641055"/>
+    <published>2026-11-26T07:19:44.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;סוחר סירות מסמוך לדורטמונד, גרמניה חשוד שמילא תפקיד מרכזי בהברחת מהגרים מעבר לתעלה. כלי תקשורת בינלאומיים כותבים כי בארבעת החודשים הראשונים של השנה הזו שימשו סירותיו של האיש כמעט שליש מהמעברים. אנשים נהרגו לפחות בשניים מניסיונות ההברחה, ארבעה בסך הכל.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641055&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מניין ההרוגים ממכרה מוצף באינדונזיה עלה ל-13</title>
+    <id>https://nos.nl/l/2641053</id>
+    <link rel="alternate" href="https://nos.nl/l/2641053"/>
+    <published>2026-11-26T06:49:59.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;מספר ההרוגים במכרה זהב מוצף באינדונזיה עלה ל-13. 13 כורים כנראה עדיין לכודים. המכרה הבלתי חוקי ממוקם דרומית לג&amp;#39;קרטה, במערב ג&amp;#39;אווה. 26 אנשים חפרו שם זהב ביום שני בערב, כאשר נהר ה-Ciseureuh עלה על גדותיו עקב גשמים עזים והציף פיר מכרה. כורים נלכדו במרחק של 100 מטרים מתחת לאדמה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641053&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אורוות סוסים נשרפות כליל בכפר הפריזאי טוויסלרהיידה</title>
+    <id>https://nos.nl/l/2641052</id>
+    <link rel="alternate" href="https://nos.nl/l/2641052"/>
+    <published>2026-11-26T06:42:17.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;שתי אורוות אבדו בשריפה גדולה בכפר Twijslerheide בפריזלנד. איש לא נפגע. גם הסוסים באורוות הובאו למקום מבטחים בזמן, כך מדווח אזור הבטיחות. שאר האורוות במקום לא נפגעו, התרנגולות בהן לא נפגעו. השריפה גם לא התפשטה לבית הסמוך לאורוות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641052&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>צ&#39;יימבר רוצה להשתמש ברפואת ADHD נגד התמכרות לקראקים</title>
+    <id>https://nos.nl/l/2641049</id>
+    <link rel="alternate" href="https://nos.nl/l/2641049"/>
+    <published>2026-11-26T06:25:03.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;זה אמור להיות אפשרי בטווח הקצר להשתמש ב-lisdexamfetamine כדי לעזור לפיצוח מכורים. רוב בית הנבחרים חושב כך. התרופה, המשמשת לטיפול בהפרעות קשב וריכוז, יכולה כנראה גם לסייע בהפחתת התשוקה לצורת קוקאין מאוד ממכרת זו. יש יותר ויותר מכורי קראק בערים גדולות כמו אמסטרדם וחרונינגן.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641049&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מצעד חג ההודיה בניו יורק נדחה לראשונה אי פעם</title>
+    <id>https://nos.nl/l/2641048</id>
+    <link rel="alternate" href="https://nos.nl/l/2641048"/>
+    <published>2026-11-26T06:15:08.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;האמריקנים יצטרכו לעשות היום את חג ההודיה בלי חלק חשוב מהחג: המהדורה ה-100 של מצעד הבלונים השנתי של ניו יורק נדחתה ביומיים. רוח חזקה וגשם זורקים ברגים. עבור אמריקאים רבים, שידור המצעד הוא חלק מחג ההודיה הלאומי כמו ארוחת הודו וכדורגל אמריקאי בטלוויזיה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641048&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>שרה אלאוי מקבלת פרס על מאמציה למען נפגעות אלימות מינית</title>
+    <id>https://www.at5.nl/artikelen/241233/sara-alaoui-krijgt-onderscheiding-voor-haar-inzet-voor-slachtoffers-van-seksueel-geweld</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241233/sara-alaoui-krijgt-onderscheiding-voor-haar-inzet-voor-slachtoffers-van-seksueel-geweld"/>
+    <published>2026-11-26T06:00:00.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;מדליית קלרה מאייר-ויכמן מגיעה השנה לשרה אלאוי על מאמציה למען נפגעות אלימות מינית. לאחר הניסיון שלה עם אלימות מינית, אלאוי חוותה ממקור ראשון עד כמה הדרך לטיפול יכולה להיות &amp;#39;קשה&amp;#39;. היום היא תקבל את המדליה. &amp;quot;מרגש וסוריאליסטי&amp;quot;, אומרת שרה אלאוי. לפני שש שנים הקימה שרה אלאוי את מועדון החלל הבטוח לגברים ונשים הזקוקים לעזרה &amp;#39;נגישה&amp;#39; לאחר אלימות מינית.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241233/sara-alaoui-krijgt-onderscheiding-voor-haar-inzet-voor-slachtoffers-van-seksueel-geweld&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>השימוש בבינה מלאכותית על ידי חברות הוכפל, חברות קטנות ובינוניות מדביקות את הפער</title>
+    <id>https://nos.nl/l/2641047</id>
+    <link rel="alternate" href="https://nos.nl/l/2641047"/>
+    <published>2026-11-26T05:53:10.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;מספר החברות המשתמשות בבינה מלאכותית, או בינה מלאכותית, יותר מהכפיל את עצמו בשנה אחת. 41 אחוז מהחברות משתמשות בזה. שנה קודם לכן, זה עדיין היה 18 אחוזים, מדווחת הלשכה המרכזית לסטטיסטיקה (הלמ&amp;quot;ס). השימוש בבינה מלאכותית הוא הגבוה ביותר בקרב חברות גדולות יותר, אך השימוש גדל בצורה החזקה ביותר בארגונים קטנים ובינוניים (SME).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641047&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>בעלי בתים הטעו לגבי קיימות, &quot;אדם אמר שהוא מתקשר בשם חברת האנרגיה&quot;</title>
+    <id>https://nos.nl/l/2641045</id>
+    <link rel="alternate" href="https://nos.nl/l/2641045"/>
+    <published>2026-11-26T05:46:33.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;הטעיה, לחץ מכירות והחזרים כספיים. זה מה שצרכנים מתמודדים איתו כשהם רוצים להפוך את ביתם לבר-קיימא יותר. Vereniging Eigen Huis (VEH) קיבלה 959 דיווחים על בעיות בעת רכישת מוצרים ושירותים לקיימות. קבוצת האינטרס לבעלי בתים פתחה בתחילת אוגוסט את נקודת הדיווח למכירות אגרסיביות ומטעות בתחום הקיימות. לאחר יותר משלושה חודשים בוצעו כמעט אלף דיווחים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641045&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>קריאת השכמה 26/11: פסגה על תקציב האיחוד האירופי • מועדוני כדורגל הולנדים בפעולה באירופה</title>
+    <id>https://nos.nl/l/2641044</id>
+    <link rel="alternate" href="https://nos.nl/l/2641044"/>
+    <published>2026-11-26T05:33:55.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;בוקר טוב! פסגת האיחוד האירופי מתחילה בבריסל. זוהי פסגה נוספת על התקציב האירופי החדש. הקרב יהיה בעיקר על הכמות. יתר על כן, אייאקס, AZ, FC טוונטה ו-NEC יפעלו הערב בהקשר אירופי. היום יש הרבה שמש, אבל יש גם שדות עננים פזורים. נותר יבש בכל מקום ועם רוח מזרחית מתונה הטמפרטורות המקסימליות הן בין 0 ל-2 מעלות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641044&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>פריצות דרך בתיקים ישנים הודות למחקר DNA חדש: &#39;יש לנו זהב בידיים&#39;</title>
+    <id>https://nos.nl/l/2641043</id>
+    <link rel="alternate" href="https://nos.nl/l/2641043"/>
+    <published>2026-11-26T05:26:28.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;השנה, צורה חדשה של בדיקת קשרי DNA הובילה לפריצת דרך בחמישה מקרי עבירות מין שלא נפתרו. הצפי הוא שהטכנולוגיה החדשה הזו תוביל ליותר מקרים קרים שנפתרו בשנים הקרובות, על פי המכון המשפטי של הולנד (NFI), המשטרה ושירות התביעה. &amp;quot;יש לנו זהב בידיים&amp;quot;, אומרים במשטרה. לאחרונה הושגו הצלחות עם מה שנקרא מחקר Y.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641043&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ג&#39;טן ערוך ל&quot;מאבק עקוב מדם&quot; על תקציב האיחוד האירופי</title>
+    <id>https://nos.nl/l/2641042</id>
+    <link rel="alternate" href="https://nos.nl/l/2641042"/>
+    <published>2026-11-26T05:14:39.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;טבח, כישלון מוחלט וזירת אגרוף. דיפלומטים מציירים תמונה מאחורי הקלעים של מה שהם מצפים מפסגת האיחוד האירופי שמתחילה היום בבריסל. זוהי פסגה נוספת על התקציב האירופי החדש. ראש הממשלה ג&amp;#39;טן, כמו כל מנהיגי הממשלה האחרים, ינסה להגן על האינטרסים של מדינתו. האיש שמוטל על לנווט את הפסגה בכיוון הנכון הוא אנטוניו קוסטה, נשיא המועצה האירופית.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641042&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>בראד פיט ואנג&#39;לינה ג&#39;ולי מגיעים להסדר על הכרם לאחר שנים של מריבות</title>
+    <id>https://nos.nl/l/2641040</id>
+    <link rel="alternate" href="https://nos.nl/l/2641040"/>
+    <published>2026-11-26T04:02:51.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;בראד פיט ואנג&amp;#39;לינה ג&amp;#39;ולי הגיעו להסדר בתיק שנמשך שנים על מכירת אחוזת יין בצרפת. נראה כי משמעות הדבר היא שכל ההליכים המשפטיים בין בני הזוג לשעבר הסתיימו. המקרה החל ב-2022 כשפיט לקח את גרושתו לבית המשפט, משום שלדבריו היא לא עמדה בהסכם לגבי חלוקת התחום בצרפת שהם רכשו יחד.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641040&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>השפעת סלע החלל ב-2022 יצרה מכתש בגודל אצטדיון</title>
+    <id>https://nos.nl/l/2641039</id>
+    <link rel="alternate" href="https://nos.nl/l/2641039"/>
+    <published>2026-11-26T02:29:23.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;כאשר סוכנות החלל האמריקאית נאס&amp;quot;א ריסקה בכוונה חללית לתוך אסטרואיד בשנת 2022, נוצר מכתש בגודל של אצטדיון. כך דיווחה סוכנות החלל האירופית ESA. בתחילת החודש הגיעה הגשושית האירופית הרה לסלע החלל. הרה שיגר ב-2024 וכעת הגיע לסלע שנתיים מאוחר יותר כדי להעריך את הנזק. צד אחד של דימורפוס נראה שטוח יותר מאשר לפני ההתנגשות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641039&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מספר תושבים פונו לאחר שמצאו זיקוקים כבדים בביתם ברנן</title>
+    <id>https://nos.nl/l/2641038</id>
+    <link rel="alternate" href="https://nos.nl/l/2641038"/>
+    <published>2026-11-26T02:09:35.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;כמה בתים ברנן, סמוך ל-Venendaal, פונו אמש לאחר שנמצאו זיקוקים בלתי חוקיים כבדים בבית ובכלי רכב. חלק מה-Nieuwe Veenendaalseweg נחתם לאחר גילוי הזיקוקים. המשטרה גילתה את הזיקוקים לאחר טיפ באמצעות דיווח פשע אנונימי. חשוד אחד נעצר. התושבים שפונו קיבלו מחסה בבית העירייה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641038&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אנדי טיילור (65), גיטריסט דוראן דוראן, הלך לעולמו</title>
+    <id>https://nos.nl/l/2641037</id>
+    <link rel="alternate" href="https://nos.nl/l/2641037"/>
+    <published>2026-11-26T01:02:31.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אנדי טיילור, גיטריסט הלהקה הבריטית דוראן דוראן, מת בגיל 65. הוא סבל מסרטן ערמונית גרורתי מזה זמן. בהצהרה של הלהקה ומשפחתו נאמר שטיילור מת ביום שני. הלהקה הבריטית הייתה פופולרית במיוחד, במיוחד בשנות ה-80 ותחילת שנות ה-90.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641037&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>חוסר שביעות רצון בתוך VVD מתפקידו הכפול של יסילגוז, אומר היו&quot;ר לשעבר ואן דר וול</title>
+    <id>https://nos.nl/l/2641036</id>
+    <link rel="alternate" href="https://nos.nl/l/2641036"/>
+    <published>2026-11-25T23:56:18.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;יו&amp;quot;ר מפלגת VVD לשעבר, כריסטיאן ואן דר וול, אומרת של&amp;quot;חברים רבים&amp;quot; ב-VVD יש ספקות לגבי המנהיגות הפוליטית של מנהיגת VVD Yesilgöz בשילוב עם תפקידה כשרת ההגנה. בתוכנית Pauw &amp;amp; De Wit היא הביעה את ספקותיה אם ניתן לשלב את המשימות הללו. &amp;quot;יש כמות מדהימה של חוסר שביעות רצון במפלגה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641036&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>&#39;עד שהכל יגיע לתנועה&#39; מאת אסתר נעמי פרקווין זוכה בפרס בוכנבון לספרות</title>
+    <id>https://nos.nl/l/2641032</id>
+    <link rel="alternate" href="https://nos.nl/l/2641032"/>
+    <published>2026-11-25T22:02:38.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אסתר נעמי פרקין זכתה בפרס בוכנבון לספרות עם ספרה עד שהכל יגיע לתנועה. כך הודיעו הערב בבימת אמארה בהאג. לפרקין בן ה-46 העניקו את הפרס על ידי יו&amp;quot;ר חבר השופטים קתלין פרייר וסאן מיייזר, מנהלת איגוד מוכרי הספרים. הפרס כרוך בסכום של 50,000 יורו. &amp;quot;זו עבודה של דיוק מדהים&amp;quot;, אומר חבר המושבעים על הספר.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641032&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>עכשיו באפריקה, אחר כך באירופה? יתוש מלריה חדש מתקדם לעיר</title>
+    <id>https://nos.nl/l/2641026</id>
+    <link rel="alternate" href="https://nos.nl/l/2641026"/>
+    <published>2026-11-25T21:29:33.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;זה תזמון גרוע. בדיוק כפי שארה&amp;quot;ב סגרה את הברז לסיוע בפיתוח, יתוש מלריה חדש צץ באפריקה שהחיסון הקיים למלריה אינו מתאים לו. חוקרים חוששים שהיתוש יופיע בערים באפריקה ויגרום לקורבנות רבים שם. אין כמעט כסף למחקר ובקרה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2641026&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>יותר מחמישה מיליון יורו הוקצו לבניית סיבוב טורבו בניו-ווסט</title>
+    <id>https://www.at5.nl/artikelen/241259/ruim-vijf-miljoen-euro-uitgetrokken-voor-bouw-turborotonde-bij-nieuw-west</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241259/ruim-vijf-miljoen-euro-uitgetrokken-voor-bouw-turborotonde-bij-nieuw-west"/>
+    <published>2026-11-25T20:18:03.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;העירייה תורמת יותר מחמישה מיליון יורו לבניית סיבוב טורבו בלינדן, ליד Nieuw-West, ולהרחבת ה-S106. היו שם פקקים ארוכים בשעות העומס כבר שנים. ראש העיר וראש העיר הסכימו אתמול לחתימת הסכם המימוש כביכול. תרומת העירייה היא 5.26 מיליון יורו. גם עיריית הארלמרמיר, שבה נמצא הכיכר, תורמת לעלויות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241259/ruim-vijf-miljoen-euro-uitgetrokken-voor-bouw-turborotonde-bij-nieuw-west&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אלדרמן רוצה אגרה לנהגים ולנוסעים לבניית כבישים ותחבורה ציבורית</title>
+    <id>https://www.at5.nl/artikelen/241258/wethouder-wil-tolheffing-voor-automobilisten-en-reizigers-om-wegen-en-ov-aan-te-leggen</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241258/wethouder-wil-tolheffing-voor-automobilisten-en-reizigers-om-wegen-en-ov-aan-te-leggen"/>
+    <published>2026-11-25T19:50:04.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;חברת המועצה אליז מוסקופס (ניידות, D66), בתפקידה כיו&amp;quot;ר מרחב תחבורה, דגלה באפשרות של שימוש ב&amp;#39;היטלים ספציפיים לשטח&amp;#39; ובאגרות. הכסף שנאסף יכול לשמש לכבישים חדשים או לחיבורי תחבורה ציבורית. אזור התחבורה, שותפות בין אמסטרדם לעיריות בסביבה, התקשר אתמול במהלך ועידה בהאג. מוסקופס אמר שיש &amp;quot;אתגרים עצומים&amp;quot; לתשתית הולנדית.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241258/wethouder-wil-tolheffing-voor-automobilisten-en-reizigers-om-wegen-en-ov-aan-te-leggen&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>שחקני אייאקס עמוסים היטב מתכוננים ל-FC תון: &quot;לא רוצים לפגוע בידיים שלהם&quot;</title>
+    <id>https://www.at5.nl/artikelen/241256/goed-ingepakte-ajax-spelers-bereiden-zich-voor-op-fc-thun-wil-geen-pijn-aan-de-handjes</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241256/goed-ingepakte-ajax-spelers-bereiden-zich-voor-op-fc-thun-wil-geen-pijn-aan-de-handjes"/>
+    <published>2026-11-25T19:00:00.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;לפעמים היה רעיון טוב לראות מי זה מי במהלך האימון הבוקר. לדוגמה, ג&amp;#39;וליאן ברנדט עטף את עצמו כל כך טוב שרק הספרה שמונה על חזהו הסגירה את זהותו. זה גנרל טוב למחר בערב, כי כשאייאקס תצא לדרך מול תון השוויצרית ב-Johan Cruijff Arena, הטמפרטורה כנראה תהיה מתחת לאפס. רובם לא הגיעו עד לברנדט היום, אבל כמעט לכל השחקנים היו כפפות. למעט שניים: Thilo Kehrer and Dies Janse.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241256/goed-ingepakte-ajax-spelers-bereiden-zich-voor-op-fc-thun-wil-geen-pijn-aan-de-handjes&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מזג האוויר AT5 של יום חמישי, 26 בנובמבר</title>
+    <id>https://www.at5.nl/artikelen/241252/het-at5-weer-van-donderdag-26-november</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241252/het-at5-weer-van-donderdag-26-november"/>
+    <published>2026-11-25T17:00:00.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;מזג האוויר שמציג סאדה על משטח ההחלקה ב-Museumplein. האם גם אתה רוצה להציג את מזג האוויר AT5? שלח אימייל אל [email protected]&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241252/het-at5-weer-van-donderdag-26-november&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מפקד המשטרה על רצח חג&#39;ר: השוטרים זיהו נעדרת במזוודה דרך בגדים</title>
+    <id>https://www.at5.nl/artikelen/241245/politiechef-over-moord-op-hajar-door-kleding-herkenden-agenten-vermiste-vrouw-in-koffer</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241245/politiechef-over-moord-op-hajar-door-kleding-herkenden-agenten-vermiste-vrouw-in-koffer"/>
+    <published>2026-11-25T16:30:00.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;השוטרים שהוציאו מהמים את המזוודה ובה גופתה של הנעדרת חג&amp;#39;ר (29) זיהו אותה מיד מהבגדים שבהם נראתה לאחרונה. כך אומר מפקד המשטרה הפורש פיטר הולה בהט ורהור ב-AT5. הולה גם מציינת כי נבדקה הדרך בה נעצר הנעדר ומסבירה כי במקרה של ספק, עיקרון ארבע העיניים צריך לחול לעתים קרובות יותר במקרים של נעדרים עתידיים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241245/politiechef-over-moord-op-hajar-door-kleding-herkenden-agenten-vermiste-vrouw-in-koffer&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>דוד בן ה-27 נעדר מאז יום שני, נראה לאחרונה ב-Jodenbreestraat</title>
+    <id>https://www.at5.nl/artikelen/241255/27-jarige-david-vermist-jodenbreestraat-amsterdam</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241255/27-jarige-david-vermist-jodenbreestraat-amsterdam"/>
+    <published>2026-11-25T15:08:30.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;המשטרה מחפשת אחר דוד בן 27, שנעדר מיום שני שעבר. הוא נראה אז ברחוב Jodenbreestraat במרכז. תמונתו של דוד הופצה היום בתקווה לקבל טיפים לגבי היעלמותו. &amp;quot;המשטרה ומשפחתו של דוד מודאגים מאוד לשלומו&amp;quot;, מסרה היום המשטרה. לטענת המשטרה, מדובר בנעדר דחוף.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241255/27-jarige-david-vermist-jodenbreestraat-amsterdam&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>כבר אי אפשר פשוט להיכנס לאימון האחרון לקלאסיק: נדרש כרטיס חינם</title>
+    <id>https://www.at5.nl/artikelen/241254/binnenlopen-laatste-training-klassieker-kan-niet-meer-ajax-amsterdam</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241254/binnenlopen-laatste-training-klassieker-kan-niet-meer-ajax-amsterdam"/>
+    <published>2026-11-25T14:49:35.000Z</published>
+    <updated>2026-11-26T09:45:19.686Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;תומכי אייאקס שרוצים להגיע לאימון האחרון לקלאסיק בשבת הקרובה חייבים לבקש כרטיס חינם מראש. לפי אייאקס, הסיבה היא שאחרת היא עלולה להיות עסוקה מדי בדה טוקאסט. האימון הפתוח לקראת משחק החוץ מול פיינורד היה נגיש בעבר באופן חופשי: האוהדים יכלו פשוט להיכנס למגרשים, למרות שסרקו אותם על ידי דיילים. למרות השליטה הזו, זיקוקים הופעלו על ידי הגרעין הקשה בכל פעם בתחילת האימון.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241254/binnenlopen-laatste-training-klassieker-kan-niet-meer-ajax-amsterdam&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מנהיג הבדלנים הקטלוני, פוגדמונט, הודיע ​​על חזרה לספרד</title>
+    <id>https://nos.nl/l/2640969</id>
+    <link rel="alternate" href="https://nos.nl/l/2640969"/>
+    <published>2026-11-25T12:42:06.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;מנהיג הבדלנים הקטלוני, קרלס פוגדמונט, אמר כי הוא יחזור לספרד בחודש הבא. ההודעה כבר הייתה באוויר לאחר פסיקה של בית המשפט העליון בספרד. לאחרונה נקבע כי פוגדמונט, כמו מנהיגים בדלנים אחרים, כפוף לחוק החנינה ולכן יכול לחזור כאדם חופשי. פוגדמונט הודיע ​​במסיבת עיתונאים בבריסל כי יחזור לספרד ב-12 בדצמבר.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640969&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>קבוצת האקרים הולנדית נפרצה בעצמה, &quot;על ידי סוכני AI אוטונומיים&quot;</title>
+    <id>https://nos.nl/l/2640968</id>
+    <link rel="alternate" href="https://nos.nl/l/2640968"/>
+    <published>2026-11-25T12:37:02.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;התוקפים השתמשו בבינה מלאכותית כדי לפרוץ ל-DIVD, איגוד הולנד של האקרים אתיים. ככל הנראה התוקפים אפשרו לתוכניות בינה מלאכותית לפרוץ למערכות באופן אוטונומי, מה שאפשר להן לעבוד הרבה יותר מהר מבני אדם, אומרים חוקרים מבחוץ. DIVD, שנוסדה ב-2019, סורקת את האינטרנט בחיפוש אחר מערכות IT שניתן לפרוץ ועורכת מחקר משלה על פגיעויות בתוכנה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640968&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>נשים בנות 86, 79 ו-67 היו קורבנות לשוד אלים ב- Slotervaart</title>
+    <id>https://www.at5.nl/artikelen/241250/vrouwen-86-79-67-jaar-gewelddadige-berovingen-amsterdam-slotervaart</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241250/vrouwen-86-79-67-jaar-gewelddadige-berovingen-amsterdam-slotervaart"/>
+    <published>2026-11-25T12:21:03.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;שלוש נשים (86, 79 ו-67) נשדדו באלימות בניו-ווסט ב-14 בנובמבר. שתיים מהנשים נפצעו, אחת מהן עדיין מאושפזת בבית החולים. במשטרה מניחים שיש גם קורבן רביעי. אתמול נעצר נער קטין וחשוד בשלושת מעשי השוד. שלושת מקרי השוד התרחשו תוך שעה, כולם ב- Slotervaart.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241250/vrouwen-86-79-67-jaar-gewelddadige-berovingen-amsterdam-slotervaart&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>האופוזיציה הישראלית חלוקה בנוגע לממשלת האחדות עם מפלגתו של נתניהו</title>
+    <id>https://nos.nl/l/2640967</id>
+    <link rel="alternate" href="https://nos.nl/l/2640967"/>
+    <published>2026-11-25T12:12:55.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;האופוזיציה בישראל חלוקה בשאלה כיצד הכי טוב להקים ממשלה חדשה. יאיר גולן ממפלגת המרכז-שמאל הדמוקרטים השעה את השיחות הקואליציוניות עם מפלגתו של הפורמטטור גדי אייזנקוט. הוא עושה זאת מתוך חוסר שביעות רצון מהמשא ומתן שמנהל הצוות של אייזנקוט עם מפלגת הליכוד של נתניהו על ממשלת אחדות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640967&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מזכיר המדינה: מפקחים מפחדים מעבודה במשחטות</title>
+    <id>https://nos.nl/l/2640966</id>
+    <link rel="alternate" href="https://nos.nl/l/2640966"/>
+    <published>2026-11-25T12:05:59.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;מספר הולך וגדל של עובדים של רשות המזון והצרכן ההולנדית לבטיחות מוצרים (NVWA) כבר לא מעזים לעבוד בבתי מטבחיים מסוימים &amp;quot;בשל התנסויות עם תוקפנות ואלימות&amp;quot;. מזכיר המדינה ארקנס כתב זאת במכתב לבית הנבחרים. ארקנס מודאג מ&amp;quot;סיכוני העבודה המתמשכים וההתעללות במגזר הבשר ההולנדי&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640966&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מהדורת NOS Journaal · 13:00</title>
+    <id>https://npo.nl/start/afspelen/nos-journaal_107782</id>
+    <link rel="alternate" href="https://npo.nl/start/afspelen/nos-journaal_107782"/>
+    <published>2026-11-25T12:00:00.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NPO"/>
+    <summary type="html">&lt;p&gt;צהריים טובים. השעה 13:00 חֲדָשׁוֹת. כולל תאונה בליליסטאד. השחקן ז&amp;#39;ול קרואזט הלך לעולמו וכך גם הספורט, כמובן, סיורד. צהריים טובים. ה-KNVB הציג מכתב תמיכה ליו&amp;quot;ר פיפ&amp;quot;א אינפנטינו במהלך המונדיאל האחרון. ותגובות של פ.ס.וו ופיינורד אחרי ההפסדים בליגת האלופות. לפחות חמישה נוסעים נפצעו קשה בהתנגשות בין משאית לאוטובוס סדיר ליד לליסטאד. כולל שני ילדים. התאונה אירעה בסביבות השעה שמונה בבוקר בכביש המחוז N302. הסיבה עדיין לא ידועה. צד האוטובוס פתוח לגמרי, כנראה זה קרה... עקב הערימות שהמשאית הסיעה. מספר הפצועים המדויק טרם ברור, לפי המשטרה. נהגי האוטובוס והמשאית לא נפגעו, אך הם היו נסערים. הקורבן שנמצא אתמול במקפיא ברחוב באוטרכט הוא גבר בן 20 מאוטרכט. עדיין לא ברור מה עלה בגורלו. החקירה המשפטית ערכה חקירה כל הערב.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://npo.nl/start/afspelen/nos-journaal_107782&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אדם נפל מגובה רב בבניין ליד קארה, חוקרת פיקוח העבודה</title>
+    <id>https://www.at5.nl/artikelen/241251/man-hoogte-gevallen-pand-naast-carre-amsterdam</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241251/man-hoogte-gevallen-pand-naast-carre-amsterdam"/>
+    <published>2026-11-25T11:51:55.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;אדם נפל מגובה רב ב-Nieuwe Prinsengracht, ליד תיאטרון קארה. אולי הוא נפל דרך חור. הפיקוח על העבודה בודק כיצד זה יכול לקרות. לשירותי החירום נמסר על התאונה מעט לפני השעה 12 בצהריים. בנוסף לאמבולנסים, נוכחות לתמיכה גם מספר יחידות של כיבוי אש, כולל צוות חילוץ מיוחד. תמונות מראים שהבניין שליד קארה מכוסה בפיגומים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241251/man-hoogte-gevallen-pand-naast-carre-amsterdam&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>חוקרים באמסטרדם רוצים לזהות ולטפל בסרטן ריאות ביום אחד</title>
+    <id>https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen"/>
+    <published>2026-11-25T11:38:35.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;חוקרים מאמסטרדם UMC, אוניברסיטת אמסטרדם והאוניברסיטה החופשית רוצים להאיץ את האבחון והטיפול בסרטן ריאות. המחקר הוא חלק מ-Amsterdam MedTech, שיתוף פעולה חדש ששלושת המוסדות באמסטרדם השיקו ביום שני. אם יש חשד לסרטן ריאות, לרוב נלקחת דגימת רקמה מהמטופל, שנשלחת לאחר מכן למעבדה ונבדקת.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>סין משגרת ספינת חלל שנג&#39;ואו 24: בפעם הראשונה, אסטרונאוטים זרים נמצאים על הסיפון</title>
+    <id>https://nos.nl/l/2640960</id>
+    <link rel="alternate" href="https://nos.nl/l/2640960"/>
+    <published>2026-11-25T11:18:07.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;עמוק במדבר גובי שוכן נמל החלל העתיק ביותר של סין: אתר השיגור Jiuquan. ב-8:18 בבוקר פיצוץ מחריש אוזניים שובר את הדממה השלווה. האדמה רועדת. בכוח עצום, ספינת החלל Shenzhou-24 משוגרת כדי להעביר שלושה אסטרונאוטים לתחנת החלל טיאנגונג. עם אסטרונאוט פקיסטני על הסיפון בפעם הראשונה. בסיס זה היה הבמה להתקדמות הגדולה ביותר של סין במסעות בחלל במספר הזדמנויות.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640960&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>משטרת גרמניה עוצרת ילדים בני 14 ו-15 בגין תוכניות תקיפה של הימין הקיצוני</title>
+    <id>https://nos.nl/l/2640959</id>
+    <link rel="alternate" href="https://nos.nl/l/2640959"/>
+    <published>2026-11-25T11:11:18.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;משטרת גרמניה עצרה שלושה חשודים בני 14 ו-15 בחקירת קבוצת טרור ימנית קיצונית. זה קרה במהלך חיפושים באזורים שונים בגרמניה. השלושה חשודים כחברים בטרור 18. מדובר בקבוצה ש&amp;quot;יש לה סלידה עמוקה מהתנאים הפוליטיים והדמוקרטיים בגרמניה&amp;quot;, אמר משרד המשפטים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640959&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>בדיקת רכב מובילה לגילוי של יותר מ-6,000 קילו של זיקוקים ברוטרדם</title>
+    <id>https://nos.nl/l/2640958</id>
+    <link rel="alternate" href="https://nos.nl/l/2640958"/>
+    <published>2026-11-25T11:05:49.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;המשטרה מצאה אלפי קילוגרמים של זיקוקים לא חוקיים במחסן ברוטרדם-הוגבליט. לפי המשטרה, מדובר בתפיסה הגדולה ביותר של השנה. המשטרה גילתה את המסיבה הודות לבדיקה עצמית של המכס. שוטרי המכס מצאו במוצאי שבת זיקוקים לא חוקיים בתא המטען של המכונית ולנהג היו הרבה מזומנים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640958&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>המחיר במשאבה יורד, בין היתר הודות ל&#39;מכליות הסעות&#39; במיצר הורמוז</title>
+    <id>https://nos.nl/l/2640954</id>
+    <link rel="alternate" href="https://nos.nl/l/2640954"/>
+    <published>2026-11-25T10:39:30.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;חדשות טובות למי שיצא לכביש בימים האחרונים ונאלץ לתדלק: מחיר הבנזין והסולר ירדו במקומות רבים. אין סימן קטן לתסיסה במיצר הורמוז, שם דווח על התקפות חדשות על ספנות ביום ראשון. זה היה שונה לפני כמה חודשים. התקפות רחוב דחפו את מחירי הנפט והדלק לשיאים מספר פעמים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640954&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>זה רשמי: ABN עמרו יחזור כספונסר ראשי של אייאקס בשנה הבאה</title>
+    <id>https://www.at5.nl/artikelen/241247/abn-amro-volgend-hoofdsponsor-ajax-amsterdam</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241247/abn-amro-volgend-hoofdsponsor-ajax-amsterdam"/>
+    <published>2026-11-25T10:30:19.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;ABN Amro שוב יהיה הספונסר הראשי של אייאקס מהעונה הבאה. החל מה-1 ביולי 2027, שמו של הבנק יופיע על חולצות המשחק של אייאקס, אייאקס נשים וג&amp;#39;ונג אייאקס. הבנק ואייאקס התקשרו בהסכם לחמש שנים. הבנק לוקח על עצמו את החסות הראשית מזיגו. בקיץ שעבר הודיעה אייאקס כי החברה תפסיק להיות נותנת החסות הראשית של המועדון לאחר 12.5 שנים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241247/abn-amro-volgend-hoofdsponsor-ajax-amsterdam&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>הקורבן במקפיא באוטרכט הוא גבר בן 20, נותרו שאלות רבות לגבי הנסיבות</title>
+    <id>https://nos.nl/l/2640952</id>
+    <link rel="alternate" href="https://nos.nl/l/2640952"/>
+    <published>2026-11-25T10:14:28.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;הקורבן שנמצא אתמול במקפיא ברחוב באוטרכט הוא גבר בן 20 מאוטרכט. עדיין לא ברור מה קרה לו. במשטרה אומרים שהם &amp;quot;שומרים על כל התרחישים פתוחים&amp;quot;. החקירה המשפטית ערכה חקירה כל הערב. &amp;quot;חקירת סיבת המוות ונסיבות גילויו של המנוח נמשכת היום&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640952&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>גבר רכוב על אופניים שמנים דוקר אישה על אופני מטען בהאוטן, קורבן פצוע קשה</title>
+    <id>https://nos.nl/l/2640949</id>
+    <link rel="alternate" href="https://nos.nl/l/2640949"/>
+    <published>2026-11-25T09:53:45.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;גבר שרכב על אופניים שמנים דקר הבוקר אישה בהאוטן. היא נפצעה קשה. החשוד ברח, אך לאחר מכן דיווח על עצמו למשטרה. הוא נעצר. הדקירה אירעה בסביבות השעה 8:30 בבוקר. כשעה וחצי לאחר מכן האיש דיווח למשטרה. המשטרה עדיין לא יכולה לומר דבר על זהותו.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640949&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אישה חולה מאחורי ההגה בדרום, כבאי מתערב מיד</title>
+    <id>https://www.at5.nl/artikelen/241241/vrouw-onwel-achter-stuur-amsterdam-zuid-brandweerman-grijpt-in</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241241/vrouw-onwel-achter-stuur-amsterdam-zuid-brandweerman-grijpt-in"/>
+    <published>2026-11-25T09:52:31.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;אשה חלתה אמש במכונית ברחוב ואן ניז&amp;#39;נרודאווג ב-Buitenveldert. כבאי בדרכו הביתה ראה את זה קורה ודחף את המכונית הצידה עם רכבו שלו. הוא ניפץ חלון, הוציא את האישה מהמכונית והחל מיד בהחייאה. האישה חלתה ברע קצת לפני השעה 23:00. אֶמֶשׁ. הכבאי המתין באותה עת כשהבחין במכונית המפגינה התנהגות נהיגה חריגה. כשחלף על פני הרכב, ראה מיד שזה לא תקין.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241241/vrouw-onwel-achter-stuur-amsterdam-zuid-brandweerman-grijpt-in&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מצב בני הערובה בסופרמרקט הקולומביאני הסתיים לאחר 16 שעות, חוטף ערובה נהרג</title>
+    <id>https://nos.nl/l/2640948</id>
+    <link rel="alternate" href="https://nos.nl/l/2640948"/>
+    <published>2026-11-25T09:42:11.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;לאחר 16 שעות, המשטרה והצבא של קולומביה סיימו את מצב בני הערובה בו הוחזקו 20 בני אדם בסופרמרקט בקרטחנה. לטענת נשיא המדינה, אבלרדו דה לה אספרילה, חוטף ערובה אחד נהרג במהלך השחרור וארבעה נוספים נעצרו. כל בני הערובה שרדו. הרשויות הפעילו יחידות מיוחדות של משטרה וצבא בפעולה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640948&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מקרי מוות באינדונזיה לאחר התמוטטות שלי; 26 בני אדם עדיין במעצר</title>
+    <id>https://nos.nl/l/2640947</id>
+    <link rel="alternate" href="https://nos.nl/l/2640947"/>
+    <published>2026-11-25T09:41:08.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;לפחות שלושה בני אדם נהרגו בתאונת כרייה באינדונזיה. לפי הרשויות, 26 אנשים עדיין לכודים במכרה. הכורים נמצאים בעומק של מאה מטרים מאז יום שני, לאחר שהמוקש קרס עקב גשם כבד. שלוש הגופות נמצאו בעומק של שלושים עד ארבעים מטרים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640947&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>הולנד מחזירה מטבעות מתקופת חברת הודו המזרחית ההולנדית לאוסטרליה</title>
+    <id>https://nos.nl/l/2640940</id>
+    <link rel="alternate" href="https://nos.nl/l/2640940"/>
+    <published>2026-11-25T09:15:13.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;הולנד החזירה לאוסטרליה שני מטבעות כסף מתקופת חברת הודו המזרחית ההולנדית (VOC). המטבעות הגיעו מספינת חברת הודו המזרחית ההולנדית (VOC) שטבעה בשנת 1712 מול החוף המערבי של אוסטרליה. הן נחשבות למורשת תרבותית אוסטרלית. הן נגנבו משרידי ספינת הזויטדורפ.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640940&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>לנין עדיין יכול לעמוד באוסטוולד</title>
+    <id>https://nos.nl/l/2640939</id>
+    <link rel="alternate" href="https://nos.nl/l/2640939"/>
+    <published>2026-11-25T09:10:45.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אחרי הכל, פסל בגובה מטרים של ולדימיר לנין יעמוד בכפר אוסטוולד שבגרונינגן. בתחילה, עיריית אולדאמבט לא רצתה בכך, אך כעת היא בכל זאת מעניקה אישור. הפסל מברונזה של מייסד ברית המועצות וראש הממשלה הראשון שלה שימש הקיץ כתפאורה להצגת תיאטרון מוזיקלי באוסטוולד. לאחר מכן הוא היה אמור לעבור למרכז מידע עתידי בנושא ההיסטוריה של הקומוניזם במזרח גרונינגן.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640939&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>לפחות חמישה פצועים קשה בתאונה בין משאית לאוטובוס ציבורי ליד לליסטאד</title>
+    <id>https://nos.nl/l/2640937</id>
+    <link rel="alternate" href="https://nos.nl/l/2640937"/>
+    <published>2026-11-25T09:07:35.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;לפחות חמישה בני אדם נפצעו קשה בהתנגשות בין משאית לאוטובוס סדיר ליד לליסטאד. זה קרה בסביבות השעה 8 בבוקר בכביש פרובינציאלי N302. שירותי החירום נמצאים במקום בהמוניהם. התמונות מציגות שורה של אמבולנסים. מהמשטרה נמסר כי טרם ידוע מספר הפצועים המדויק.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640937&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ילדות קשה גרמה ל&quot;קצר&quot; במוחו של השחקן המפורסם ז&#39;ול קרואזה</title>
+    <id>https://nos.nl/l/2640930</id>
+    <link rel="alternate" href="https://nos.nl/l/2640930"/>
+    <published>2026-11-25T08:42:55.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;ז&amp;#39;ול קרואה, שנפטר בתחילת השבוע, היה בן למשפחת תיאטרון ידועה. הוא החל את הקריירה שלו בתחום התיאטרון כבר בגיל 17, ובמהלך העשורים הבאים שיחק בתפקידים ראשיים בכל להקות התיאטרון הגדולות, כולל במחזות קלאסיים מאת שייקספיר, סופוקלס, פיידו ווונדל. בשנת 1979 קיבל את פרס לואי ד&amp;#39;אור על תפקידו הראשי במחזה &amp;quot;פלטונוב&amp;quot; מאת צ&amp;#39;כוב.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640930&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>&quot;פסיכיאטר לבריאות הנפש שעזר בלחימה בכלובים ניאו-נאצים היה יועץ למערכת המשפט&quot;</title>
+    <id>https://nos.nl/l/2640929</id>
+    <link rel="alternate" href="https://nos.nl/l/2640929"/>
+    <published>2026-11-25T08:42:31.000Z</published>
+    <updated>2026-11-25T13:01:22.539Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;אחד מהעוסקים במקצועות הרפואה ששימשו כ&amp;quot;חובשים&amp;quot; במהלך קרבות כלובים ניאו-נאציים והופיעו בסרט התיעודי של זמבלה &amp;quot;תיקי הניאו-נאצים&amp;quot;, עבד במספר ארגוני בריאות נפש. כך עולה ממחקר חדש של תוכנית הטלוויזיה &amp;quot;זמבלה&amp;quot;. בשידור, ששודר בשבוע שעבר, הוצגו תמונות של תנועות ניאו-נאציות שבין היתר מעריצות את אדולף היטלר ומקיימות ביניהן קרבות כלוב.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640929&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>לאמסטרדם יש את שיעור העוני הגבוה ביותר בהולנד אחרי ואלס</title>
+    <id>https://www.at5.nl/artikelen/241242/amsterdam-hoogste-armoedepercentage-nederland</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241242/amsterdam-hoogste-armoedepercentage-nederland"/>
+    <published>2026-11-25T07:59:46.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;אמסטרדם היא שוב העיר עם שיעור העוני הגבוה ביותר במדינה. רק בעירייה ואלס שבלימבורג שיעור העוני גבוה יותר מאשר כאן. 6 אחוזים מתושבי אמסטרדם חיו מתחת לקו העוני בשנה שעברה. כך עולה מנתונים של הלשכה המרכזית לסטטיסטיקה (CBS).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241242/amsterdam-hoogste-armoedepercentage-nederland&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>מעתה והלאה, גרונינגן ודרנתה מפזרות מלח גם מחוץ לגבולות המחוז</title>
+    <id>https://nos.nl/l/2640921</id>
+    <link rel="alternate" href="https://nos.nl/l/2640921"/>
+    <published>2026-11-25T07:51:55.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;המחוזות גרונינגן ודרנתה עומדים לשתף פעולה במאבק נגד הקרח על הכבישים. בדרך כלל, מסלולי הפיזור אינם חורגים מגבול המחוז, אך במקרה זה נראה כי יעיל הרבה יותר לעשות זאת. לדברי המחוז, זה לא רק חוסך כסף, אלא גם פליטות פחמן דו-חמצני וזמן. עד כה, בגרונינגן פיזרו מלח מחמישה מקומות שונים במחוז. מסלולי הפיזור של משאיות הפיזור היו מותאמים לכך.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640921&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>בכ-רבע מכלל מקרי המוות בתאונות דרכים מעורב אלכוהול</title>
+    <id>https://nos.nl/l/2640920</id>
+    <link rel="alternate" href="https://nos.nl/l/2640920"/>
+    <published>2026-11-25T07:06:32.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;בחלק ניכר ממקרי המוות בתאונות דרכים מעורב אלכוהול. כך מדווח המכון למחקר מדעי בטיחות בדרכים (SWOV) על בסיס הערכה. המכון בחן את השנים 2019–2025 ומעריך שאלכוהול מהווה גורם ב-24% עד 35% ממקרי המוות בתאונות דרכים. ברבים מהמקרים האלה, מי שנהרג היה הנהג עצמו, המכון SWOV מעריך שזה המצב בשני שלישים מהמקרים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640920&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אישה שנאלצת להמתין זמן רב בחנות נעליים מקללת את העובדת ומכה אותה יומיים לאחר מכן</title>
+    <id>https://www.at5.nl/artikelen/241240/vrouw-die-lang-moet-wachten-schoenenzaak-mishandelt-werknemer-amsterdam</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241240/vrouw-die-lang-moet-wachten-schoenenzaak-mishandelt-werknemer-amsterdam"/>
+    <published>2026-11-25T07:00:48.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;המשטרה מחפשת אחר אישה החשודה בתקיפת עובדת בחנות נעליים באוסדורפ. לאחר שהתברר לה שהיא צריכה להמתין מעט עד שמישהו מהעובדים יעזור לה, היא מקללת את העובדת. יומיים לאחר מכן היא מחכה לאותה עובדת בתחנת אוטובוס. שם היא תופסת אותה בזרועה, מאיימת עליה ומתעללת בה. לדברי המשטרה, התפתח עימות מילולי לאחר שעובד חנות הנעליים אמר לחשודה חסרת הסבלנות שתצטרך להמתין מעט.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241240/vrouw-die-lang-moet-wachten-schoenenzaak-mishandelt-werknemer-amsterdam&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>הסלבדורי אברגו גרסיה עוזב את ארה&quot;ב לאחר מאבק גירוש ועובר לספרד</title>
+    <id>https://nos.nl/l/2640919</id>
+    <link rel="alternate" href="https://nos.nl/l/2640919"/>
+    <published>2026-11-25T06:51:26.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;קילמר אברגו גרסיה, הסלבדורי בן 31 שגורש מארצות הברית וערער בהצלחה על גירושו, עזב אתמול מרצונו לספרד בטיסה סדירה מסחרית. הוא הפך לפנים של מדיניות ההגירה הנוקשה של ממשל טראמפ לאחר שנעצר במרץ בשנה שעברה ונשלח לכלא ידוע לשמצה במולדתו.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640919&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>השחקן ז&#39;ול קרואה (89) נפטר</title>
+    <id>https://nos.nl/l/2640917</id>
+    <link rel="alternate" href="https://nos.nl/l/2640917"/>
+    <published>2026-11-25T06:29:00.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="NOS"/>
+    <summary type="html">&lt;p&gt;השחקן ז&amp;#39;ול קרואזה נפטר בגיל 89. משפחתו הודיעה על כך לסוכנות הידיעות ANP. קרואזה מגיע ממשפחת שחקנים מפורסמת. הוריו, מקס קרואזה וז&amp;#39;אן ורסטראטה, היו שחקנים, וגם אחיו הנס ובניו וינסנט ונילס, בין היתר, הופיעו בסרטים, בטלוויזיה ובתיאטרון. הוא היה בן דודו של השחקן קואן פלינק והבמאי הטלוויזיוני גוס ורסטראטה.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nos.nl/l/2640917&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>אין רכבות ספרינטר בין אמסטרדם לאוטרכט עקב תקלה ברמזורים</title>
+    <id>https://www.at5.nl/artikelen/241243/geen-sprinters-tussen-amsterdam-en-utrecht-door-seinstoring</id>
+    <link rel="alternate" href="https://www.at5.nl/artikelen/241243/geen-sprinters-tussen-amsterdam-en-utrecht-door-seinstoring"/>
+    <published>2026-11-25T06:12:36.000Z</published>
+    <updated>2026-11-25T09:29:57.148Z</updated>
+    <author><name>חדשות הולנד</name></author>
+    <category term="AT5"/>
+    <summary type="html">&lt;p&gt;נוסעי הרכבת בין אמסטרדם לאוטרכט צריכים לקחת בחשבון הפרעות: אין רכבות ספרינטר בין אבכאודה לברויקלן. התקלה גורמת לבעיות בקטע המסלול לכיוון אוטרכט. על פי המידע העדכני, התקלה תימשך לפחות עד השעה 15:00. חברת הרכבות NS ממליצה לתכנן את הנסיעה זמן קצר מראש באמצעות מתכנן הנסיעות כדי לקבל את העצות העדכניות ביותר.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.at5.nl/artikelen/241243/geen-sprinters-tussen-amsterdam-en-utrecht-door-seinstoring&quot;&gt;למקור&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

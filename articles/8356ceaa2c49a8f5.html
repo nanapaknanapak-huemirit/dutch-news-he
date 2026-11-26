@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>תושב אמסטרדם נעצר שוב בגין מעורבות באלימות באובראסלט — חדשות הולנד</title>
+<link rel="stylesheet" href="../style.css">
+<link rel="alternate" type="application/atom+xml" title="חדשות הולנד" href="../feed.xml">
+<link rel="alternate" type="application/rss+xml" title="פודקאסט חדשות הולנד" href="../podcast.xml">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="../index.html">
+      <span class="brand-mark">NL</span>
+      <span class="brand-text"><strong>חדשות הולנד</strong><small>בעברית, כל בוקר</small></span>
+    </a>
+    <div class="header-date">יום חמישי, 26 בנובמבר 2026</div>
+  </div>
+</header>
+<main class="wrap">
+
+  <nav class="article-nav">
+    <a href="../index.html">← המהדורה היומית</a>
+    <a href="../archive/2026-11-25.html">המהדורה המלאה</a>
+  </nav>
+  <article class="article-page" data-source="at5">
+    <header class="article-head">
+      <div class="card-meta">
+        <span class="src src-at5">AT5</span>
+        <time datetime="2026-11-24T19:12:00.000Z">24 בנוב׳, 20:12</time>
+      </div>
+      <h1>תושב אמסטרדם נעצר שוב בגין מעורבות באלימות באובראסלט</h1>
+      <p class="original article-original" lang="nl" dir="ltr">Opnieuw Amsterdammer aangehouden voor betrokkenheid geweld in Overasselt</p>
+      <div class="article-actions">
+        <button class="listen" type="button" data-audio="../audio/items/b3b78cc0e712131aaad2998c2279ef307f7813dfee6f59df86562d788241e088.mp3" aria-pressed="false" aria-label="האזן לכתבה: תושב אמסטרדם נעצר שוב בגין מעורבות באלימות באובראסלט"><span class="listen-icon" data-icon aria-hidden="true">▶</span><span data-label>האזן</span></button>
+        <a class="source-link" href="https://www.at5.nl/artikelen/241239/aanhouding-voor-geweld-in-overasselt" target="_blank" rel="noopener noreferrer">למקור ההולנדי ↗</a>
+      </div>
+    </header>
+    <div class="article-body">
+      <p>עצור חשוד נוסף בחשד למעורבות באלימות באוברסלט. מדובר בגבר בן 24 מאמסטרדם. עד כה עצרה המשטרה 40 חשודים באלימות הקיצונית בכפר גלדרי זה. החשוד נעצר היום בשדה התעופה סכיפהול. האיש היה מבוקש על ידי המשטרה והגיע היום בטיסה ממרוקו לשדה התעופה. שם הוא נעצר והועבר למתקן מעצרים. ביום שישי הקרוב הוא יובא לבית המשפט. לפני שבוע נעצר גם חשוד בשדה התעופה רוטרדם-האופה. זה היה אדם בן 22 מאמסטרדם, שגם טס ממרוקו להולנד. בסך הכל עצרה המשטרה כעת 40 חשודים באלימות הקיצונית באוברסלט, שאירעה ב-1 בספטמבר. קבוצת גברים חמושים נכנסה לחוותו של פושע סמים בשם יאן ג. וירתה במגן בו. לאחר מכן הקבוצה ירה על המשטרה. שני שוטרים נפצעו בעקבות זאת.</p>
+    </div>
+    <p class="article-note">תרגום עברי של הכתבה מ־AT5. <a href="https://www.at5.nl/artikelen/241239/aanhouding-voor-geweld-in-overasselt" target="_blank" rel="noopener noreferrer">הכתבה המקורית</a></p>
+  </article>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>נבנה אוטומטית מהמקורות: NOS · NPO · AT5</p>
+    <nav>
+      <a href="../updates.html">עדכונים</a>
+      <a href="../archive/index.html">ארכיון</a>
+      <a href="../podcast.xml">פודקאסט</a>
+      <a href="../feed.xml">RSS</a>
+      
+    </nav>
+  </div>
+</footer>
+<audio id="item-player" preload="none"></audio>
+<script>
+(() => {
+  const filterButtons = document.querySelectorAll('[data-filter]');
+  const filterCards = document.querySelectorAll('[data-source]');
+  filterButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      const filter = button.dataset.filter;
+      filterButtons.forEach((other) => other.classList.toggle('active', other === button));
+      filterCards.forEach((card) => { card.hidden = filter !== 'all' && card.dataset.source !== filter; });
+    });
+  });
+
+  const readToggle = document.querySelector('[data-read-toggle]');
+  const readingPanel = document.getElementById('bulletin-reading');
+  if (readToggle && readingPanel) {
+    readToggle.addEventListener('click', () => {
+      const expanded = readToggle.getAttribute('aria-expanded') === 'true';
+      readToggle.setAttribute('aria-expanded', String(!expanded));
+      readingPanel.hidden = expanded;
+      const label = readToggle.querySelector('[data-read-label]');
+      if (label) label.textContent = expanded ? 'קריאה' : 'סגירה';
+    });
+  }
+
+  const itemPlayer = document.getElementById('item-player');
+  const bulletin = document.getElementById('bulletin-player');
+  const allAudioButtons = [...document.querySelectorAll('[data-audio]')];
+  const listenButtons = allAudioButtons.filter((button) => !button.hasAttribute('data-standalone'));
+  let current = null;
+
+  const setState = (button, playing) => {
+    button.classList.toggle('playing', playing);
+    button.setAttribute('aria-pressed', String(playing));
+    const icon = button.querySelector('[data-icon]');
+    const label = button.querySelector('[data-label]');
+    const idleLabel = button.dataset.labelIdle || 'האזן';
+    const playingLabel = button.dataset.labelPlaying || 'עצור';
+    if (icon) icon.textContent = playing ? '❚❚' : '▶';
+    if (label) label.textContent = playing ? playingLabel : idleLabel;
+  };
+
+  const playButton = (button) => {
+    if (!itemPlayer) return;
+    if (current === button && !itemPlayer.paused) {
+      itemPlayer.pause();
+      return;
+    }
+    if (current && current !== button) setState(current, false);
+    if (bulletin) bulletin.pause();
+    current = button;
+    itemPlayer.src = button.dataset.audio;
+    itemPlayer.play().catch(() => setState(button, false));
+  };
+
+  allAudioButtons.forEach((button) => button.addEventListener('click', () => playButton(button)));
+
+  itemPlayer?.addEventListener('play', () => { if (current) setState(current, true); });
+  itemPlayer?.addEventListener('pause', () => { if (current) setState(current, false); });
+  itemPlayer?.addEventListener('ended', () => {
+    const finished = current;
+    if (finished) setState(finished, false);
+    if (!finished || finished.hasAttribute('data-standalone')) {
+      current = null;
+      return;
+    }
+    const visible = listenButtons.filter((button) => !button.closest('[hidden]'));
+    const index = visible.indexOf(finished);
+    const next = visible[index + 1];
+    if (next) playButton(next);
+  });
+
+  bulletin?.addEventListener('play', () => {
+    itemPlayer?.pause();
+    if (current) setState(current, false);
+    current = null;
+  });
+
+  document.querySelector('[data-play-all]')?.addEventListener('click', () => {
+    const visible = listenButtons.filter((button) => !button.closest('[hidden]'));
+    if (visible.length) playButton(visible[0]);
+  });
+})();
+</script>
+</body>
+</html>
